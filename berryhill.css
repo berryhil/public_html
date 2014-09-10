@@ -1,0 +1,23 @@
+body       {background: #FFCC99 ;
+            color: #000000 ;
+            margin-top: +20}
+a:link     {color: #0000FF}
+a:visited  {color: #00009C}
+H2         {font-size: 22pt ;
+            font-weight: bold ;
+            text-align: center ;
+            color: #000000 ;
+            font-family: times}
+H3         {font-size: 18pt ;
+            font-weight: bold ;
+            text-align: center ;
+            color: #000000 ;
+            font-family: times}
+H5         {font-size: 16pt  ;
+            font-weight: bold ;
+            text-aligh: left ;
+            color: #FF002A ;
+            font-family: times}
+cite       {font-family: "Gill Sans", Arial, sans-serif ;
+            font-style: italic}
+
